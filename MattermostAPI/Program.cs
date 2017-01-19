@@ -12,9 +12,9 @@ namespace MattermostAPI
     {
 
         #region CONST
-        private const string ChannelId = "drjocspfd3bjudhd9u6kjfrz3r";
-        private const string TeamId = "f7xgco96gtrzdjcubhgnbp9kyh";
-        private const string HttpRequest = "https://tchat.mailperformance.com/api/v3";
+        private const string ChannelId = "";
+        private const string TeamId = "";
+        private const string HttpRequest = "https://tchat.com/api/v3";
         #endregion  
 
         public static void Main()
