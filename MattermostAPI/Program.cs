@@ -13,8 +13,14 @@ namespace MattermostAPI
     {
 
         #region CONST
+<<<<<<< HEAD
         private const string TeamName = "npsix";
         private const string HttpRequest = "https://tchat.mailperformance.com/api/v3";
+=======
+        private const string TeamName = "";
+        private const string ChannelName = "test api";
+        private const string HttpRequest = "https://tchat.com/api/v3";
+>>>>>>> f99f1b9bf403c1873ce8a7ee75d0232954b7f957
         #endregion  
 
         public static void Main(string[] args)
