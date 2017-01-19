@@ -50,7 +50,6 @@ namespace MattermostAPI
 
                 // Get team
                 string team = SendGetRequest(client, "/teams/all");
-                var t = JsonConvert.DeserializeObject(team);
 
                 // Get channel by name
 
